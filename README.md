@@ -3,7 +3,19 @@
 A simple, functional web calculator built using **HTML**, **CSS**, and **Python**. This project uses **PyScript** to run Python logic directly in the web browser, eliminating the need for a traditional backend server.
 
 ## 🚀 Live Demo
-You can view the live project here: [INSERT YOUR GITHUB PAGES URL HERE]
+You can view the live project here: # 🧮 Python Web Calculator
+A serverless calculator built with HTML and Python (via PyScript).
+
+## 🚀 Live Demo
+[View the Calculator Live](https://dax665.github.io/calculator/)
+
+## 🛠️ Tech Stack
+- **Frontend:** HTML5, CSS3
+- **Logic:** Python 3.11 (PyScript)
+- **Hosting:** GitHub Pages
+
+## 📖 How it Works
+This project uses **PyScript** to interpret Python code directly in the browser's assembly. This allows us to use Python's clean syntax for mathematical logic without needing a backend server like Flask or Django.
 
 ## ✨ Features
 - **Python-Powered:** Calculation logic is written in Python rather than JavaScript.

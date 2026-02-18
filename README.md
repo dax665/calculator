@@ -30,4 +30,4 @@ This project uses **PyScript** to interpret Python code directly in the browser'
 ## ⚙️ How to Run Locally
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
+   git clone [https://github.com/dax665/calculator.git]

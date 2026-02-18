@@ -27,7 +27,3 @@ This project uses **PyScript** to interpret Python code directly in the browser'
 - `index.html`: Contains the layout, styles, and the Python script logic.
 - `README.md`: Documentation for the project.
 
-## ⚙️ How to Run Locally
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/dax665/calculator.git]
